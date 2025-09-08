@@ -3,7 +3,7 @@
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCHSPI3op_MlTPfauONxpZYw?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/obrunojeronimo/curso-gratuito-python-analise-de-dados?style=social)
 
-Bem-vindo(a) ao repositório oficial do **Curso Gratuito de Python para Análise de Dados**! Este projeto é mantido por mim, [Seu Nome/Apelido], e todo o conteúdo é disponibilizado gratuitamente através do canal [**Dados com Rapadura**](https://www.youtube.com/@dadoscomrapadura).
+Bem-vindo(a) ao repositório oficial do **Curso Gratuito de Python para Análise de Dados**! Este projeto é mantido por mim, Bruno Jerônimo, e todo o conteúdo é disponibilizado gratuitamente através do canal [**Dados com Rapadura**](https://www.youtube.com/@dadoscomrapadura).
 
 ---
 
@@ -14,8 +14,8 @@ O objetivo principal é oferecer um conteúdo de qualidade e acessível para que
 ### O que você vai encontrar aqui:
 
 * **Notebooks das Aulas:** Todos os arquivos `.ipynb` com os códigos e explicações de cada aula.
-* ** datasets:** (Opcional, se você for usar) Os conjuntos de dados utilizados nos exemplos práticos.
-* **Desafios:** (Opcional, se você for criar) Exercícios para você praticar e testar seu conhecimento.
+* ** datasets:** Os conjuntos de dados utilizados nos exemplos práticos.
+* **Desafios:** Exercícios para você praticar e testar seu conhecimento.
 
 ---
 
