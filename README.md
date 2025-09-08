@@ -14,7 +14,7 @@ O objetivo principal é oferecer um conteúdo de qualidade e acessível para que
 ### O que você vai encontrar aqui:
 
 * **Notebooks das Aulas:** Todos os arquivos `.ipynb` com os códigos e explicações de cada aula.
-* ** datasets:** Os conjuntos de dados utilizados nos exemplos práticos.
+* **datasets:** Os conjuntos de dados utilizados nos exemplos práticos.
 * **Desafios:** Exercícios para você praticar e testar seu conhecimento.
 
 ---
